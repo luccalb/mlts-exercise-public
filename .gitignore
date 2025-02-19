@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 household_power_consumption.txt
 Live_Solution.ipynb
+08_09_RNN_LSTM/data/household_power_consumption.txt:Zone.Identifier
